@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    background-image: url(https://th.bing.com/th/id/R.945a81b88ff7a9b3879258b05b91b68c?rik=OeKBm3BjFu4Urg&riu=http%3a%2f%2fimages.amcnetworks.com%2famc.com%2fwp-content%2fuploads%2f2017%2f03%2fSingles_Jonathan_Banks-Mike-Ehrmantraut_012917_0042-700x1000.jpg&ehk=FiwDmdmcom1UzEwY%2bCerqeaCoYnC5el%2ftTjHdJ62nu8%3d&risl=&pid=ImgRaw&r=0);
+}
+h1{
+    color: crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+p{
+    font-size: large;
+    font-family: sans-serif;
+    color: hotpink;
+    text-align: center;
+}
+p2{
+    font-size: large;
+    font-family:sans-serif;
+    color: aqua;
+}
